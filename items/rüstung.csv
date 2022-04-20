@@ -1,0 +1,445 @@
+item1611;Einfacher Leinen-Spitzhut;0.0% Rüstschutz, 0.5 Absorb;0.600 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1612;Einfache Leinen-Robe;0.0% Rüstschutz, 0.8 Absorb;1.000 kg, Stoffrüstungen, Stufe 1;1500 Gold
+item1616;Einfache Leinen-Haube;0.8% Rüstschutz, 0.7 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1617;Einfacher Leinen-Gambeson;1.2% Rüstschutz, 1.1 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 1;1500 Gold
+item1613;Einfache Leinen-Handschuhe;0.0% Rüstschutz, 0.4 Absorb;0.400 kg, Stoffrüstungen, Stufe 2;1000 Gold
+item1614;Einfache Leinen-Hose;0.0% Rüstschutz, 0.5 Absorb;0.600 kg, Stoffrüstungen, Stufe 2;1400 Gold
+item1615;Einfache Leinen-Schuhe;0.0% Rüstschutz, 0.4 Absorb;0.400 kg, Stoffrüstungen, Stufe 2;1000 Gold
+item1618;Einfache Leinen-Armwickel;0.6% Rüstschutz, 0.5 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 2;1000 Gold
+item1619;Einfache Leinen-Beinlinge;0.8% Rüstschutz, 0.7 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 2;1400 Gold
+item1620;Einfache Leinen-Stiefel;0.6% Rüstschutz, 0.5 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 2;1000 Gold
+item1621;Verstärkter Leinen-Spitzhut;0.0% Rüstschutz, 0.8 Absorb;0.600 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1622;Verstärkte Leinen-Robe;0.0% Rüstschutz, 1.2 Absorb;1.000 kg, Stoffrüstungen, Stufe 4;2300 Gold
+item1626;Verstärkte Leinen-Haube;0.8% Rüstschutz, 1.1 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1627;Verstärkter Leinen-Gambeson;1.2% Rüstschutz, 1.6 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 4;2300 Gold
+item1623;Verstärkte Leinen-Handschuhe;0.0% Rüstschutz, 0.6 Absorb;0.400 kg, Stoffrüstungen, Stufe 5;1600 Gold
+item1624;Verstärkte Leinen-Hose;0.0% Rüstschutz, 0.8 Absorb;0.600 kg, Stoffrüstungen, Stufe 5;2100 Gold
+item1625;Verstärkte Leinen-Schuhe;0.0% Rüstschutz, 0.6 Absorb;0.400 kg, Stoffrüstungen, Stufe 5;1600 Gold
+item1628;Verstärkte Leinen-Armwickel;0.6% Rüstschutz, 0.8 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 5;1600 Gold
+item1629;Verstärkte Leinen-Beinlinge;0.8% Rüstschutz, 1.1 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 5;2100 Gold
+item1630;Verstärkte Leinen-Stiefel;0.6% Rüstschutz, 0.8 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 5;1600 Gold
+item1631;Einfacher Woll-Spitzhut;0.0% Rüstschutz, 1.0 Absorb;0.600 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1632;Einfache Woll-Robe;0.0% Rüstschutz, 1.5 Absorb;1.000 kg, Stoffrüstungen, Stufe 6;3000 Gold
+item1636;Einfache Woll-Haube;0.8% Rüstschutz, 1.3 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1637;Einfacher Woll-Gambeson;1.2% Rüstschutz, 2.0 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 6;3000 Gold
+item1633;Einfache Woll-Handschuhe;0.0% Rüstschutz, 0.8 Absorb;0.400 kg, Stoffrüstungen, Stufe 7;2100 Gold
+item1634;Einfache Woll-Hose;0.0% Rüstschutz, 1.0 Absorb;0.600 kg, Stoffrüstungen, Stufe 7;2800 Gold
+item1635;Einfache Woll-Schuhe;0.0% Rüstschutz, 0.8 Absorb;0.400 kg, Stoffrüstungen, Stufe 7;2100 Gold
+item1638;Einfache Woll-Armwickel;0.6% Rüstschutz, 1.0 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 7;2100 Gold
+item1639;Einfache Woll-Beinlinge;0.8% Rüstschutz, 1.3 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 7;2800 Gold
+item1640;Einfache Woll-Stiefel;0.6% Rüstschutz, 1.0 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 7;2100 Gold
+item1641;Verstärkter Woll-Spitzhut;0.0% Rüstschutz, 1.3 Absorb;0.600 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1642;Verstärkte Woll-Robe;0.0% Rüstschutz, 2.0 Absorb;1.000 kg, Stoffrüstungen, Stufe 9;4600 Gold
+item1646;Verstärkte Woll-Haube;0.8% Rüstschutz, 1.7 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1647;Verstärkter Woll-Gambeson;1.2% Rüstschutz, 2.5 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 9;4600 Gold
+item1643;Verstärkte Woll-Handschuhe;0.0% Rüstschutz, 1.0 Absorb;0.400 kg, Stoffrüstungen, Stufe 10;3200 Gold
+item1644;Verstärkte Woll-Hose;0.0% Rüstschutz, 1.3 Absorb;0.600 kg, Stoffrüstungen, Stufe 10;4200 Gold
+item1645;Verstärkte Woll-Schuhe;0.0% Rüstschutz, 1.0 Absorb;0.400 kg, Stoffrüstungen, Stufe 10;3200 Gold
+item1648;Verstärkte Woll-Armwickel;0.6% Rüstschutz, 1.3 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 10;3200 Gold
+item1649;Verstärkte Woll-Beinlinge;0.8% Rüstschutz, 1.7 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 10;4200 Gold
+item1650;Verstärkte Woll-Stiefel;0.6% Rüstschutz, 1.3 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 10;3200 Gold
+item1651;Einfacher Baumwoll-Spitzhut;0.0% Rüstschutz, 1.5 Absorb;0.600 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1652;Einfache Baumwoll-Robe;0.0% Rüstschutz, 2.3 Absorb;1.000 kg, Stoffrüstungen, Stufe 11;6100 Gold
+item1656;Einfache Baumwoll-Haube;0.8% Rüstschutz, 1.9 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1657;Einfacher Baumwoll-Gambeson;1.2% Rüstschutz, 2.9 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 11;6100 Gold
+item1653;Einfache Baumwoll-Handschuhe;0.0% Rüstschutz, 1.2 Absorb;0.400 kg, Stoffrüstungen, Stufe 12;4200 Gold
+item1654;Einfache Baumwoll-Hose;0.0% Rüstschutz, 1.5 Absorb;0.600 kg, Stoffrüstungen, Stufe 12;5600 Gold
+item1655;Einfache Baumwoll-Schuhe;0.0% Rüstschutz, 1.2 Absorb;0.400 kg, Stoffrüstungen, Stufe 12;4200 Gold
+item1658;Einfache Baumwoll-Armwickel;0.6% Rüstschutz, 1.5 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 12;4200 Gold
+item1659;Einfache Baumwoll-Beinlinge;0.8% Rüstschutz, 1.9 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 12;5600 Gold
+item1660;Einfache Baumwoll-Stiefel;0.6% Rüstschutz, 1.5 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 12;4200 Gold
+item1661;Verstärkter Baumwoll-Spitzhut;0.0% Rüstschutz, 1.9 Absorb;0.600 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1662;Verstärkte Baumwoll-Robe;0.0% Rüstschutz, 2.8 Absorb;1.000 kg, Stoffrüstungen, Stufe 14;9200 Gold
+item1666;Verstärkte Baumwoll-Haube;0.8% Rüstschutz, 2.3 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1667;Verstärkter Baumwoll-Gambeson;1.2% Rüstschutz, 3.5 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 14;9200 Gold
+item1663;Verstärkte Baumwoll-Handschuhe;0.0% Rüstschutz, 1.4 Absorb;0.400 kg, Stoffrüstungen, Stufe 15;6400 Gold
+item1664;Verstärkte Baumwoll-Hose;0.0% Rüstschutz, 1.9 Absorb;0.600 kg, Stoffrüstungen, Stufe 15;8500 Gold
+item1665;Verstärkte Baumwoll-Schuhe;0.0% Rüstschutz, 1.4 Absorb;0.400 kg, Stoffrüstungen, Stufe 15;6400 Gold
+item1668;Verstärkte Baumwoll-Armwickel;0.6% Rüstschutz, 1.7 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 15;6400 Gold
+item1669;Verstärkte Baumwoll-Beinlinge;0.8% Rüstschutz, 2.3 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 15;8500 Gold
+item1670;Verstärkte Baumwoll-Stiefel;0.6% Rüstschutz, 1.7 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 15;6400 Gold
+item1671;Einfacher Seiden-Spitzhut;0.0% Rüstschutz, 2.1 Absorb;0.600 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1672;Einfache Seiden-Robe;0.0% Rüstschutz, 3.1 Absorb;1.000 kg, Stoffrüstungen, Stufe 16;12200 Gold
+item1676;Einfache Seiden-Haube;0.8% Rüstschutz, 2.5 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1677;Einfacher Seiden-Gambeson;1.2% Rüstschutz, 3.8 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 16;12200 Gold
+item1673;Einfache Seiden-Handschuhe;0.0% Rüstschutz, 1.6 Absorb;0.400 kg, Stoffrüstungen, Stufe 17;8400 Gold
+item1674;Einfache Seiden-Hose;0.0% Rüstschutz, 2.1 Absorb;0.600 kg, Stoffrüstungen, Stufe 17;11200 Gold
+item1675;Einfache Seiden-Schuhe;0.0% Rüstschutz, 1.6 Absorb;0.400 kg, Stoffrüstungen, Stufe 17;8400 Gold
+item1678;Einfache Seiden-Armwickel;0.6% Rüstschutz, 1.9 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 17;8400 Gold
+item1679;Einfache Seiden-Beinlinge;0.8% Rüstschutz, 2.5 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 17;11200 Gold
+item1680;Einfache Seiden-Stiefel;0.6% Rüstschutz, 1.9 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 17;8400 Gold
+item1681;Verstärkter Seiden-Spitzhut;0.0% Rüstschutz, 2.4 Absorb;0.600 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1682;Verstärkte Seiden-Robe;0.0% Rüstschutz, 3.6 Absorb;1.000 kg, Stoffrüstungen, Stufe 19;18600 Gold
+item1686;Verstärkte Seiden-Haube;0.8% Rüstschutz, 2.9 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1687;Verstärkter Seiden-Gambeson;1.2% Rüstschutz, 4.4 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 19;18600 Gold
+item1683;Verstärkte Seiden-Handschuhe;0.0% Rüstschutz, 1.8 Absorb;0.400 kg, Stoffrüstungen, Stufe 20;12800 Gold
+item1684;Verstärkte Seiden-Hose;0.0% Rüstschutz, 2.4 Absorb;0.600 kg, Stoffrüstungen, Stufe 20;17100 Gold
+item1685;Verstärkte Seiden-Schuhe;0.0% Rüstschutz, 1.8 Absorb;0.400 kg, Stoffrüstungen, Stufe 20;12800 Gold
+item1688;Verstärkte Seiden-Armwickel;0.6% Rüstschutz, 2.2 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 20;12800 Gold
+item1689;Verstärkte Seiden-Beinlinge;0.8% Rüstschutz, 2.9 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 20;17100 Gold
+item1690;Verstärkte Seiden-Stiefel;0.6% Rüstschutz, 2.2 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 20;12800 Gold
+item1691;Einfacher Äther-Spitzhut;0.0% Rüstschutz, 2.6 Absorb;0.600 kg, Stoffrüstungen, Stufe 21;16400 Gold
+item1692;Einfache Äther-Robe;0.0% Rüstschutz, 3.9 Absorb;1.000 kg, Stoffrüstungen, Stufe 21;24500 Gold
+item1696;Einfache Äther-Haube;0.8% Rüstschutz, 3.2 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 21;16400 Gold
+item1697;Einfacher Äther-Gambeson;1.2% Rüstschutz, 4.7 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 21;24500 Gold
+item1693;Einfache Äther-Handschuhe;0.0% Rüstschutz, 1.9 Absorb;0.400 kg, Stoffrüstungen, Stufe 22;16900 Gold
+item1694;Einfache Äther-Hose;0.0% Rüstschutz, 2.6 Absorb;0.600 kg, Stoffrüstungen, Stufe 22;22600 Gold
+item1695;Einfache Äther-Schuhe;0.0% Rüstschutz, 1.9 Absorb;0.400 kg, Stoffrüstungen, Stufe 22;16900 Gold
+item1698;Einfache Äther-Armwickel;0.6% Rüstschutz, 2.4 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 22;16900 Gold
+item1699;Einfache Äther-Beinlinge;0.8% Rüstschutz, 3.2 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 22;22600 Gold
+item1700;Einfache Äther-Stiefel;0.6% Rüstschutz, 2.4 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 22;16900 Gold
+item1701;Verstärkter Äther-Spitzhut;0.0% Rüstschutz, 2.9 Absorb;0.600 kg, Stoffrüstungen, Stufe 24;24900 Gold
+item1702;Verstärkte Äther-Robe;0.0% Rüstschutz, 4.4 Absorb;1.000 kg, Stoffrüstungen, Stufe 24;37300 Gold
+item1706;Verstärkte Äther-Haube;0.8% Rüstschutz, 3.5 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 24;24900 Gold
+item1707;Verstärkter Äther-Gambeson;1.2% Rüstschutz, 5.3 Absorb;4 Behinderung;1.600 kg, Stoffrüstungen, Stufe 24;37300 Gold
+item1703;Verstärkte Äther-Handschuhe;0.0% Rüstschutz, 2.2 Absorb;0.400 kg, Stoffrüstungen, Stufe 25;25800 Gold
+item1704;Verstärkte Äther-Hose;0.0% Rüstschutz, 2.9 Absorb;0.600 kg, Stoffrüstungen, Stufe 25;34400 Gold
+item1705;Verstärkte Äther-Schuhe;0.0% Rüstschutz, 2.2 Absorb;0.400 kg, Stoffrüstungen, Stufe 25;25800 Gold
+item1708;Verstärkte Äther-Armwickel;0.6% Rüstschutz, 2.6 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 25;25800 Gold
+item1709;Verstärkte Äther-Beinlinge;0.8% Rüstschutz, 3.5 Absorb;3 Behinderung;1.000 kg, Stoffrüstungen, Stufe 25;34400 Gold
+item1710;Verstärkte Äther-Stiefel;0.6% Rüstschutz, 2.6 Absorb;2 Behinderung;0.700 kg, Stoffrüstungen, Stufe 25;25800 Golditem1711;Einfache Weichleder-Haube;1.6% Rüstschutz, 0.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 1;1000 Gold
+item1712;Einfaches Weichleder-Wams;2.4% Rüstschutz, 1.1 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 1;1500 Gold
+item1716;Einfacher Weichleder-Helm;2.4% Rüstschutz, 0.9 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 1;1000 Gold
+item1717;Einfacher Weichleder-Harnisch;3.6% Rüstschutz, 1.4 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 1;1500 Gold
+item1713;Einfache Weichleder-Handschuhe;1.2% Rüstschutz, 0.5 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 2;1000 Gold
+item1714;Einfache Weichleder-Hose;1.6% Rüstschutz, 0.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 2;1400 Gold
+item1715;Einfache Weichleder-Schuhe;1.2% Rüstschutz, 0.5 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 2;1000 Gold
+item1718;Einfache Weichleder-Armschienen;1.8% Rüstschutz, 0.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 2;1000 Gold
+item1719;Einfache Weichleder-Beinschienen;2.4% Rüstschutz, 0.9 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 2;1400 Gold
+item1720;Einfache Weichleder-Stiefel;1.8% Rüstschutz, 0.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 2;1000 Gold
+item1721;Verstärkte Weichleder-Haube;1.6% Rüstschutz, 1.1 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 4;1500 Gold
+item1722;Verstärktes Weichleder-Wams;2.4% Rüstschutz, 1.6 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 4;2300 Gold
+item1726;Verstärkter Weichleder-Helm;2.4% Rüstschutz, 1.4 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 4;1500 Gold
+item1727;Verstärkter Weichleder-Harnisch;3.6% Rüstschutz, 2.1 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 4;2300 Gold
+item1723;Verstärkte Weichleder-Handschuhe;1.2% Rüstschutz, 0.8 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 5;1600 Gold
+item1724;Verstärkte Weichleder-Hose;1.6% Rüstschutz, 1.1 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 5;2100 Gold
+item1725;Verstärkte Weichleder-Schuhe;1.2% Rüstschutz, 0.8 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 5;1600 Gold
+item1728;Verstärkte Weichleder-Armschienen;1.8% Rüstschutz, 1.0 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 5;1600 Gold
+item1729;Verstärkte Weichleder-Beinschienen;2.4% Rüstschutz, 1.4 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 5;2100 Gold
+item1730;Verstärkte Weichleder-Stiefel;1.8% Rüstschutz, 1.0 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 5;1600 Gold
+item1731;Einfache Leder-Haube;1.6% Rüstschutz, 1.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 6;2000 Gold
+item1732;Einfaches Leder-Wams;2.4% Rüstschutz, 2.0 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 6;3000 Gold
+item1736;Einfacher Leder-Helm;2.4% Rüstschutz, 1.7 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 6;2000 Gold
+item1737;Einfacher Leder-Harnisch;3.6% Rüstschutz, 2.5 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 6;3000 Gold
+item1733;Einfache Leder-Handschuhe;1.2% Rüstschutz, 1.0 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 7;2100 Gold
+item1734;Einfache Leder-Hose;1.6% Rüstschutz, 1.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 7;2800 Gold
+item1735;Einfache Leder-Schuhe;1.2% Rüstschutz, 1.0 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 7;2100 Gold
+item1738;Einfache Leder-Armschienen;1.8% Rüstschutz, 1.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 7;2100 Gold
+item1739;Einfache Leder-Beinschienen;2.4% Rüstschutz, 1.7 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 7;2800 Gold
+item1740;Einfache Leder-Stiefel;1.8% Rüstschutz, 1.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 7;2100 Gold
+item1741;Verstärkte Leder-Haube;1.6% Rüstschutz, 1.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 9;3100 Gold
+item1742;Verstärktes Leder-Wams;2.4% Rüstschutz, 2.5 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 9;4600 Gold
+item1746;Verstärkter Leder-Helm;2.4% Rüstschutz, 2.1 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 9;3100 Gold
+item1747;Verstärkter Leder-Harnisch;3.6% Rüstschutz, 3.2 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 9;4600 Gold
+item1743;Verstärkte Leder-Handschuhe;1.2% Rüstschutz, 1.3 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 10;3200 Gold
+item1744;Verstärkte Leder-Hose;1.6% Rüstschutz, 1.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 10;4200 Gold
+item1745;Verstärkte Leder-Schuhe;1.2% Rüstschutz, 1.3 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 10;3200 Gold
+item1748;Verstärkte Leder-Armschienen;1.8% Rüstschutz, 1.6 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 10;3200 Gold
+item1749;Verstärkte Leder-Beinschienen;2.4% Rüstschutz, 2.1 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 10;4200 Gold
+item1750;Verstärkte Leder-Stiefel;1.8% Rüstschutz, 1.6 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 10;3200 Gold
+item1751;Einfache Hartleder-Haube;1.6% Rüstschutz, 1.9 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 11;4000 Gold
+item1752;Einfaches Hartleder-Wams;2.4% Rüstschutz, 2.9 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 11;6100 Gold
+item1756;Einfacher Hartleder-Helm;2.4% Rüstschutz, 2.4 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 11;4000 Gold
+item1757;Einfacher Hartleder-Harnisch;3.6% Rüstschutz, 3.6 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 11;6100 Gold
+item1753;Einfache Hartleder-Handschuhe;1.2% Rüstschutz, 1.5 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 12;4200 Gold
+item1754;Einfache Hartleder-Hose;1.6% Rüstschutz, 1.9 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 12;5600 Gold
+item1755;Einfache Hartleder-Schuhe;1.2% Rüstschutz, 1.5 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 12;4200 Gold
+item1758;Einfache Hartleder-Armschienen;1.8% Rüstschutz, 1.8 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 12;4200 Gold
+item1759;Einfache Hartleder-Beinschienen;2.4% Rüstschutz, 2.4 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 12;5600 Gold
+item1760;Einfache Hartleder-Stiefel;1.8% Rüstschutz, 1.8 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 12;4200 Gold
+item1761;Verstärkte Hartleder-Haube;1.6% Rüstschutz, 2.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 14;6200 Gold
+item1762;Verstärktes Hartleder-Wams;2.4% Rüstschutz, 3.5 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 14;9200 Gold
+item1766;Verstärkter Hartleder-Helm;2.4% Rüstschutz, 2.9 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 14;6200 Gold
+item1767;Verstärkter Hartleder-Harnisch;3.6% Rüstschutz, 4.3 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 14;9200 Gold
+item1763;Verstärkte Hartleder-Handschuhe;1.2% Rüstschutz, 1.7 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 15;6400 Gold
+item1764;Verstärkte Hartleder-Hose;1.6% Rüstschutz, 2.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 15;8500 Gold
+item1765;Verstärkte Hartleder-Schuhe;1.2% Rüstschutz, 1.7 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 15;6400 Gold
+item1768;Verstärkte Hartleder-Armschienen;1.8% Rüstschutz, 2.2 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 15;6400 Gold
+item1769;Verstärkte Hartleder-Beinschienen;2.4% Rüstschutz, 2.9 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 15;8500 Gold
+item1770;Verstärkte Hartleder-Stiefel;1.8% Rüstschutz, 2.2 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 15;6400 Gold
+item1771;Einfache Riesenleder-Haube;1.6% Rüstschutz, 2.5 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 16;8100 Gold
+item1772;Einfaches Riesenleder-Wams;2.4% Rüstschutz, 3.8 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 16;12200 Gold
+item1776;Einfacher Riesenleder-Helm;2.4% Rüstschutz, 3.2 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 16;8100 Gold
+item1777;Einfacher Riesenleder-Harnisch;3.6% Rüstschutz, 4.7 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 16;12200 Gold
+item1773;Einfache Riesenleder-Handschuhe;1.2% Rüstschutz, 1.9 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 17;8400 Gold
+item1774;Einfache Riesenleder-Hose;1.6% Rüstschutz, 2.5 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 17;11200 Gold
+item1775;Einfache Riesenleder-Schuhe;1.2% Rüstschutz, 1.9 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 17;8400 Gold
+item1778;Einfache Riesenleder-Armschienen;1.8% Rüstschutz, 2.4 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 17;8400 Gold
+item1779;Einfache Riesenleder-Beinschienen;2.4% Rüstschutz, 3.2 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 17;11200 Gold
+item1780;Einfache Riesenleder-Stiefel;1.8% Rüstschutz, 2.4 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 17;8400 Gold
+item1781;Verstärkte Riesenleder-Haube;1.6% Rüstschutz, 2.9 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 19;12400 Gold
+item1782;Verstärktes Riesenleder-Wams;2.4% Rüstschutz, 4.4 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 19;18600 Gold
+item1786;Verstärkter Riesenleder-Helm;2.4% Rüstschutz, 3.6 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 19;12400 Gold
+item1787;Verstärkter Riesenleder-Harnisch;3.6% Rüstschutz, 5.4 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 19;18600 Gold
+item1783;Verstärkte Riesenleder-Handschuhe;1.2% Rüstschutz, 2.2 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 20;12800 Gold
+item1784;Verstärkte Riesenleder-Hose;1.6% Rüstschutz, 2.9 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 20;17100 Gold
+item1785;Verstärkte Riesenleder-Schuhe;1.2% Rüstschutz, 2.2 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 20;12800 Gold
+item1788;Verstärkte Riesenleder-Armschienen;1.8% Rüstschutz, 2.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 20;12800 Gold
+item1789;Verstärkte Riesenleder-Beinschienen;2.4% Rüstschutz, 3.6 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 20;17100 Gold
+item1790;Verstärkte Riesenleder-Stiefel;1.8% Rüstschutz, 2.7 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 20;12800 Gold
+item1791;Einfache Drachenleder-Haube;1.6% Rüstschutz, 3.2 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 21;16400 Gold
+item1792;Einfaches Drachenleder-Wams;2.4% Rüstschutz, 4.7 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 21;24500 Gold
+item1796;Einfacher Drachenleder-Helm;2.4% Rüstschutz, 3.9 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 21;16400 Gold
+item1797;Einfacher Drachenleder-Harnisch;3.6% Rüstschutz, 5.9 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 21;24500 Gold
+item1793;Einfache Drachenleder-Handschuhe;1.2% Rüstschutz, 2.4 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 22;16900 Gold
+item1794;Einfache Drachenleder-Hose;1.6% Rüstschutz, 3.2 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 22;22600 Gold
+item1795;Einfache Drachenleder-Schuhe;1.2% Rüstschutz, 2.4 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 22;16900 Gold
+item1798;Einfache Drachenleder-Armschienen;1.8% Rüstschutz, 2.9 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 22;16900 Gold
+item1799;Einfache Drachenleder-Beinschienen;2.4% Rüstschutz, 3.9 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 22;22600 Gold
+item1800;Einfache Drachenleder-Stiefel;1.8% Rüstschutz, 2.9 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 22;16900 Gold
+item1801;Verstärkte Drachenleder-Haube;1.6% Rüstschutz, 3.5 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 24;24900 Gold
+item1802;Verstärktes Drachenleder-Wams;2.4% Rüstschutz, 5.3 Absorb;9 Behinderung;1.500 kg, Lederrüstungen, Stufe 24;37300 Gold
+item1806;Verstärkter Drachenleder-Helm;2.4% Rüstschutz, 4.3 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 24;24900 Gold
+item1807;Verstärkter Drachenleder-Harnisch;3.6% Rüstschutz, 6.5 Absorb;13 Behinderung;2.100 kg, Lederrüstungen, Stufe 24;37300 Gold
+item1803;Verstärkte Drachenleder-Handschuhe;1.2% Rüstschutz, 2.6 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 25;25800 Gold
+item1804;Verstärkte Drachenleder-Hose;1.6% Rüstschutz, 3.5 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 25;34400 Gold
+item1805;Verstärkte Drachenleder-Schuhe;1.2% Rüstschutz, 2.6 Absorb;4 Behinderung;0.600 kg, Lederrüstungen, Stufe 25;25800 Gold
+item1808;Verstärkte Drachenleder-Armschienen;1.8% Rüstschutz, 3.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 25;25800 Gold
+item1809;Verstärkte Drachenleder-Beinschienen;2.4% Rüstschutz, 4.3 Absorb;9 Behinderung;1.300 kg, Lederrüstungen, Stufe 25;34400 Gold
+item1810;Verstärkte Drachenleder-Stiefel;1.8% Rüstschutz, 3.3 Absorb;6 Behinderung;0.900 kg, Lederrüstungen, Stufe 25;25800 Golditem1811;Einfache Kupfer-Kettenhaube;3.2% Rüstschutz, 0.9 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 1;1000 Gold
+item1812;Einfaches Kupfer-Kettenhemd;4.8% Rüstschutz, 1.4 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 1;1500 Gold
+item1816;Einfacher Kupfer-Plattenhelm;4.0% Rüstschutz, 1.2 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 1;1000 Gold
+item1817;Einfacher Kupfer-Plattenharnisch;6.0% Rüstschutz, 1.7 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 1;1500 Gold
+item1813;Einfache Kupfer-Kettenhandschuhe;2.4% Rüstschutz, 0.7 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 2;1000 Gold
+item1814;Einfache Kupfer-Kettenhose;3.2% Rüstschutz, 0.9 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 2;1400 Gold
+item1815;Einfache Kupfer-Kettenstiefel;2.4% Rüstschutz, 0.7 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 2;1000 Gold
+item1818;Einfache Kupfer-Plattenhandschuhe;3.0% Rüstschutz, 0.9 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 2;1000 Gold
+item1819;Einfache Kupfer-Plattenbeinschienen;4.0% Rüstschutz, 1.2 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 2;1400 Gold
+item1820;Einfache Kupfer-Plattenstiefel;3.0% Rüstschutz, 0.9 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 2;1000 Gold
+item1821;Verstärkte Kupfer-Kettenhaube;3.2% Rüstschutz, 1.4 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 4;1500 Gold
+item1822;Verstärktes Kupfer-Kettenhemd;4.8% Rüstschutz, 2.1 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 4;2300 Gold
+item1826;Verstärkter Kupfer-Plattenhelm;4.0% Rüstschutz, 1.7 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 4;1500 Gold
+item1827;Verstärkter Kupfer-Plattenharnisch;6.0% Rüstschutz, 2.5 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 4;2300 Gold
+item1823;Verstärkte Kupfer-Kettenhandschuhe;2.4% Rüstschutz, 1.0 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 5;1600 Gold
+item1824;Verstärkte Kupfer-Kettenhose;3.2% Rüstschutz, 1.4 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 5;2100 Gold
+item1825;Verstärkte Kupfer-Kettenstiefel;2.4% Rüstschutz, 1.0 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 5;1600 Gold
+item1828;Verstärkte Kupfer-Plattenhandschuhe;3.0% Rüstschutz, 1.2 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 5;1600 Gold
+item1829;Verstärkte Kupfer-Plattenbeinschienen;4.0% Rüstschutz, 1.7 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 5;2100 Gold
+item1830;Verstärkte Kupfer-Plattenstiefel;3.0% Rüstschutz, 1.2 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 5;1600 Gold
+item1831;Einfache Eisen-Kettenhaube;3.2% Rüstschutz, 1.7 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 6;2000 Gold
+item1832;Einfache Eisen-Kettenhemd;4.8% Rüstschutz, 2.5 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 6;3000 Gold
+item1836;Einfacher Eisen-Plattenhelm;4.0% Rüstschutz, 2.0 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 6;2000 Gold
+item1837;Einfacher Eisen-Plattenharnisch;6.0% Rüstschutz, 3.0 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 6;3000 Gold
+item1833;Einfache Eisen-Kettenhandschuhe;2.4% Rüstschutz, 1.3 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 7;2100 Gold
+item1834;Einfache Eisen-Kettenhose;3.2% Rüstschutz, 1.7 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 7;2800 Gold
+item1835;Einfache Eisen-Kettenstiefel;2.4% Rüstschutz, 1.3 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 7;2100 Gold
+item1838;Einfache Eisen-Plattenhandschuhe;3.0% Rüstschutz, 1.5 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 7;2100 Gold
+item1839;Einfache Eisen-Plattenbeinschienen;4.0% Rüstschutz, 2.0 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 7;2800 Gold
+item1840;Einfache Eisen-Plattenstiefel;3.0% Rüstschutz, 1.5 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 7;2100 Gold
+item1841;Verstärkte Eisen-Kettenhaube;3.2% Rüstschutz, 2.1 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 9;3100 Gold
+item1842;Verstärktes Eisen-Kettenhemd;4.8% Rüstschutz, 3.2 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 9;4600 Gold
+item1846;Verstärkter Eisen-Plattenhelm;4.0% Rüstschutz, 2.5 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 9;3100 Gold
+item1847;Verstärkter Eisen-Plattenharnisch;6.0% Rüstschutz, 3.7 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 9;4600 Gold
+item1843;Verstärkte Eisen-Kettenhandschuhe;2.4% Rüstschutz, 1.6 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 10;3200 Gold
+item1844;Verstärkte Eisen-Kettenhose;3.2% Rüstschutz, 2.1 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 10;4200 Gold
+item1845;Verstärkte Eisen-Kettenstiefel;2.4% Rüstschutz, 1.6 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 10;3200 Gold
+item1848;Verstärkte Eisen-Plattenhandschuhe;3.0% Rüstschutz, 1.9 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 10;3200 Gold
+item1849;Verstärkte Eisen-Plattenbeinschienen;4.0% Rüstschutz, 2.5 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 10;4200 Gold
+item1850;Verstärkte Eisen-Plattenstiefel;3.0% Rüstschutz, 1.9 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 10;3200 Gold
+item1851;Einfache Sorandil-Kettenhaube;3.2% Rüstschutz, 2.4 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 11;4000 Gold
+item1852;Einfache Sorandil-Kettenhemd;4.8% Rüstschutz, 3.6 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 11;6100 Gold
+item1856;Einfacher Sorandil-Plattenhelm;4.0% Rüstschutz, 2.8 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 11;4000 Gold
+item1857;Einfacher Sorandil-Plattenharnisch;6.0% Rüstschutz, 4.2 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 11;6100 Gold
+item1853;Einfache Sorandil-Kettenhandschuhe;2.4% Rüstschutz, 1.8 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 12;4200 Gold
+item1854;Einfache Sorandil-Kettenhose;3.2% Rüstschutz, 2.4 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 12;5600 Gold
+item1855;Einfache Sorandil-Kettenstiefel;2.4% Rüstschutz, 1.8 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 12;4200 Gold
+item1858;Einfache Sorandil-Plattenhandschuhe;3.0% Rüstschutz, 2.1 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 12;4200 Gold
+item1859;Einfache Sorandil-Plattenbeinschienen;4.0% Rüstschutz, 2.8 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 12;5600 Gold
+item1860;Einfache Sorandil-Plattenstiefel;3.0% Rüstschutz, 2.1 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 12;4200 Gold
+item1861;Verstärkte Sorandil-Kettenhaube;3.2% Rüstschutz, 2.9 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 14;6200 Gold
+item1862;Verstärktes Sorandil-Kettenhemd;4.8% Rüstschutz, 4.3 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 14;9200 Gold
+item1866;Verstärkter Sorandil-Plattenhelm;4.0% Rüstschutz, 3.3 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 14;6200 Gold
+item1867;Verstärkter Sorandil-Plattenharnisch;6.0% Rüstschutz, 5.0 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 14;9200 Gold
+item1863;Verstärkte Sorandil-Kettenhandschuhe;2.4% Rüstschutz, 2.2 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 15;6400 Gold
+item1864;Verstärkte Sorandil-Kettenhose;3.2% Rüstschutz, 2.9 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 15;8500 Gold
+item1865;Verstärkte Sorandil-Kettenstiefel;2.4% Rüstschutz, 2.2 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 15;6400 Gold
+item1868;Verstärkte Sorandil-Plattenhandschuhe;3.0% Rüstschutz, 2.5 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 15;6400 Gold
+item1869;Verstärkte Sorandil-Plattenbeinschienen;4.0% Rüstschutz, 3.3 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 15;8500 Gold
+item1870;Verstärkte Sorandil-Plattenstiefel;3.0% Rüstschutz, 2.5 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 15;6400 Gold
+item1871;Einfache Adamant-Kettenhaube;3.2% Rüstschutz, 3.2 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 16;8100 Gold
+item1872;Einfache Adamant-Kettenhemd;4.8% Rüstschutz, 4.7 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 16;12200 Gold
+item1876;Einfacher Adamant-Plattenhelm;4.0% Rüstschutz, 3.6 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 16;8100 Gold
+item1877;Einfacher Adamant-Plattenharnisch;6.0% Rüstschutz, 5.5 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 16;12200 Gold
+item1873;Einfache Adamant-Kettenhandschuhe;2.4% Rüstschutz, 2.4 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 17;8400 Gold
+item1874;Einfache Adamant-Kettenhose;3.2% Rüstschutz, 3.2 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 17;11200 Gold
+item1875;Einfache Adamant-Kettenstiefel;2.4% Rüstschutz, 2.4 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 17;8400 Gold
+item1878;Einfache Adamant-Plattenhandschuhe;3.0% Rüstschutz, 2.7 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 17;8400 Gold
+item1879;Einfache Adamant-Plattenbeinschienen;4.0% Rüstschutz, 3.6 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 17;11200 Gold
+item1880;Einfache Adamant-Plattenstiefel;3.0% Rüstschutz, 2.7 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 17;8400 Gold
+item1881;Verstärkte Adamant-Kettenhaube;3.2% Rüstschutz, 3.6 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 19;12400 Gold
+item1882;Verstärktes Adamant-Kettenhemd;4.8% Rüstschutz, 5.4 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 19;18600 Gold
+item1886;Verstärkter Adamant-Plattenhelm;4.0% Rüstschutz, 4.1 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 19;12400 Gold
+item1887;Verstärkter Adamant-Plattenharnisch;6.0% Rüstschutz, 6.2 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 19;18600 Gold
+item1883;Verstärkte Adamant-Kettenhandschuhe;2.4% Rüstschutz, 2.7 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 20;12800 Gold
+item1884;Verstärkte Adamant-Kettenhose;3.2% Rüstschutz, 3.6 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 20;17100 Gold
+item1885;Verstärkte Adamant-Kettenstiefel;2.4% Rüstschutz, 2.7 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 20;12800 Gold
+item1888;Verstärkte Adamant-Plattenhandschuhe;3.0% Rüstschutz, 3.1 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 20;12800 Gold
+item1889;Verstärkte Adamant-Plattenbeinschienen;4.0% Rüstschutz, 4.1 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 20;17100 Gold
+item1890;Verstärkte Adamant-Plattenstiefel;3.0% Rüstschutz, 3.1 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 20;12800 Gold
+item1891;Einfache Mithril-Kettenhaube;3.2% Rüstschutz, 3.9 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 21;16400 Gold
+item1892;Einfache Mithril-Kettenhemd;4.8% Rüstschutz, 5.9 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 21;24500 Gold
+item1896;Einfacher Mithril-Plattenhelm;4.0% Rüstschutz, 4.5 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 21;16400 Gold
+item1897;Einfacher Mithril-Plattenharnisch;6.0% Rüstschutz, 6.7 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 21;24500 Gold
+item1893;Einfache Mithril-Kettenhandschuhe;2.4% Rüstschutz, 2.9 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 22;16900 Gold
+item1894;Einfache Mithril-Kettenhose;3.2% Rüstschutz, 3.9 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 22;22600 Gold
+item1895;Einfache Mithril-Kettenstiefel;2.4% Rüstschutz, 2.9 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 22;16900 Gold
+item1898;Einfache Mithril-Plattenhandschuhe;3.0% Rüstschutz, 3.4 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 22;16900 Gold
+item1899;Einfache Mithril-Plattenbeinschienen;4.0% Rüstschutz, 4.5 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 22;22600 Gold
+item1900;Einfache Mithril-Plattenstiefel;3.0% Rüstschutz, 3.4 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 22;16900 Gold
+item1901;Verstärkte Mithril-Kettenhaube;3.2% Rüstschutz, 4.3 Absorb;12 Behinderung;2.600 kg, Metallrüstungen, Stufe 24;24900 Gold
+item1902;Verstärktes Mithril-Kettenhemd;4.8% Rüstschutz, 6.5 Absorb;18 Behinderung;8.000 kg, Metallrüstungen, Stufe 24;37300 Gold
+item1906;Verstärkter Mithril-Plattenhelm;4.0% Rüstschutz, 5.0 Absorb;15 Behinderung;3.100 kg, Metallrüstungen, Stufe 24;24900 Gold
+item1907;Verstärkter Mithril-Plattenharnisch;6.0% Rüstschutz, 7.4 Absorb;22 Behinderung;12.000 kg, Metallrüstungen, Stufe 24;37300 Gold
+item1903;Verstärkte Mithril-Kettenhandschuhe;2.4% Rüstschutz, 3.3 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 25;25800 Gold
+item1904;Verstärkte Mithril-Kettenhose;3.2% Rüstschutz, 4.3 Absorb;12 Behinderung;5.600 kg, Metallrüstungen, Stufe 25;34400 Gold
+item1905;Verstärkte Mithril-Kettenstiefel;2.4% Rüstschutz, 3.3 Absorb;9 Behinderung;1.800 kg, Metallrüstungen, Stufe 25;25800 Gold
+item1908;Verstärkte Mithril-Plattenhandschuhe;3.0% Rüstschutz, 3.7 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 25;25800 Gold
+item1909;Verstärkte Mithril-Plattenbeinschienen;4.0% Rüstschutz, 5.0 Absorb;15 Behinderung;7.100 kg, Metallrüstungen, Stufe 25;34400 Gold
+item1910;Verstärkte Mithril-Plattenstiefel;3.0% Rüstschutz, 3.7 Absorb;11 Behinderung;2.200 kg, Metallrüstungen, Stufe 25;25800 Golditem1911;Einfacher Leinen-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;21% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1921;Einfacher Leinen-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;16% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1931;Einfacher Leinen-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;21% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1941;Einfacher Leinen-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;21% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1951;Einfache Leinen-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;21% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 1;1000 Gold
+item1912;Verstärkter Leinen-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;24% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1922;Verstärkter Leinen-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;19% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1932;Verstärkter Leinen-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;24% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1942;Verstärkter Leinen-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;24% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1952;Verstärkte Leinen-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;24% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 4;1500 Gold
+item1913;Einfacher Woll-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;26% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1923;Einfacher Woll-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;21% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1933;Einfacher Woll-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;26% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1943;Einfacher Woll-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;26% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1953;Einfache Woll-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;26% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 6;2000 Gold
+item1914;Verstärkter Woll-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;29% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1924;Verstärkter Woll-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;24% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1934;Verstärkter Woll-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;29% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1944;Verstärkter Woll-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;29% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1954;Verstärkte Woll-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;29% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 9;3100 Gold
+item1915;Einfacher Baumwoll-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1925;Einfacher Baumwoll-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;26% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1935;Einfacher Baumwoll-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1945;Einfacher Baumwoll-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1955;Einfache Baumwoll-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 11;4000 Gold
+item1916;Verstärkter Baumwoll-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1926;Verstärkter Baumwoll-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;29% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1936;Verstärkter Baumwoll-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1946;Verstärkter Baumwoll-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1956;Verstärkte Baumwoll-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 14;6200 Gold
+item1917;Einfacher Seiden-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1927;Einfacher Seiden-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1937;Einfacher Seiden-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1947;Einfacher Seiden-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1957;Einfache Seiden-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 16;8100 Gold
+item1918;Verstärkter Seiden-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1928;Verstärkter Seiden-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1938;Verstärkter Seiden-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1948;Verstärkter Seiden-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1958;Verstärkte Seiden-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 19;12400 Gold
+item1919;Einfacher Äther-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 21;18800 Gold
+item1929;Einfacher Äther-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 21;18800 Gold
+item1939;Einfacher Äther-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 21;18800 Gold
+item1949;Einfacher Äther-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 21;18800 Gold
+item1959;Einfache Äther-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 21;18800 Gold
+item1920;Verstärkter Äther-Rundschild;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;20 Behinderung;2.200 kg, Stoffrüstungen, Stufe 24;28600 Gold
+item1930;Verstärkter Äther-Turmschild;2.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;40 Behinderung;4.200 kg, Stoffrüstungen, Stufe 24;28600 Gold
+item1940;Verstärkter Äther-Drachenschild;7.5% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;25 Behinderung;3.200 kg, Stoffrüstungen, Stufe 24;28600 Gold
+item1950;Verstärkter Äther-Buckler;2.5% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;5 Behinderung;1.000 kg, Stoffrüstungen, Stufe 24;28600 Gold
+item1960;Verstärkte Äther-Tartsche;7.5% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;15 Behinderung;1.600 kg, Stoffrüstungen, Stufe 24;28600 Golditem1961;Einfacher Weichleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 1;1000 Gold
+item1971;Einfacher Weichleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;23% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 1;1000 Gold
+item1981;Einfacher Weichleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 1;1000 Gold
+item1991;Einfacher Weichleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 1;1000 Gold
+item2001;Einfache Weichleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 1;1000 Gold
+item1962;Verstärkter Weichleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 4;1500 Gold
+item1972;Verstärkter Weichleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;26% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 4;1500 Gold
+item1982;Verstärkter Weichleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 4;1500 Gold
+item1992;Verstärkter Weichleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 4;1500 Gold
+item2002;Verstärkte Weichleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;34% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 4;1500 Gold
+item1963;Einfacher Leder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 6;2000 Gold
+item1973;Einfacher Leder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;28% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 6;2000 Gold
+item1983;Einfacher Leder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 6;2000 Gold
+item1993;Einfacher Leder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 6;2000 Gold
+item2003;Einfache Leder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 6;2000 Gold
+item1964;Verstärkter Leder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 9;3100 Gold
+item1974;Verstärkter Leder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;31% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 9;3100 Gold
+item1984;Verstärkter Leder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 9;3100 Gold
+item1994;Verstärkter Leder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 9;3100 Gold
+item2004;Verstärkte Leder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;39% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 9;3100 Gold
+item1965;Einfacher Hartleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 11;4000 Gold
+item1975;Einfacher Hartleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;33% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 11;4000 Gold
+item1985;Einfacher Hartleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 11;4000 Gold
+item1995;Einfacher Hartleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 11;4000 Gold
+item2005;Einfache Hartleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 11;4000 Gold
+item1966;Verstärkter Hartleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 14;6200 Gold
+item1976;Verstärkter Hartleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;36% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 14;6200 Gold
+item1986;Verstärkter Hartleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 14;6200 Gold
+item1996;Verstärkter Hartleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 14;6200 Gold
+item2006;Verstärkte Hartleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;44% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 14;6200 Gold
+item1967;Einfacher Riesenleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;46% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 16;8100 Gold
+item1977;Einfacher Riesenleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;38% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 16;8100 Gold
+item1987;Einfacher Riesenleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;46% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 16;8100 Gold
+item1997;Einfacher Riesenleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;46% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 16;8100 Gold
+item2007;Einfache Riesenleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;46% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 16;8100 Gold
+item1968;Verstärkter Riesenleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;49% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 19;12400 Gold
+item1978;Verstärkter Riesenleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;41% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 19;12400 Gold
+item1988;Verstärkter Riesenleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;49% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 19;12400 Gold
+item1998;Verstärkter Riesenleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;49% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 19;12400 Gold
+item2008;Verstärkte Riesenleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;49% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 19;12400 Gold
+item1969;Einfacher Drachenleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;51% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 21;18800 Gold
+item1979;Einfacher Drachenleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;43% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 21;18800 Gold
+item1989;Einfacher Drachenleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;51% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 21;18800 Gold
+item1999;Einfacher Drachenleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;51% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 21;18800 Gold
+item2009;Einfache Drachenleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;51% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 21;18800 Gold
+item1970;Verstärkter Drachenleder-Rundschild;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;54% Rüstschutz bei Block;30 Behinderung;2.200 kg, Lederrüstungen, Stufe 24;28600 Gold
+item1980;Verstärkter Drachenleder-Turmschild;3.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;46% Rüstschutz bei Block;60 Behinderung;4.200 kg, Lederrüstungen, Stufe 24;28600 Gold
+item1990;Verstärkter Drachenleder-Drachenschild;10.7% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;54% Rüstschutz bei Block;37 Behinderung;3.200 kg, Lederrüstungen, Stufe 24;28600 Gold
+item2000;Verstärkter Drachenleder-Buckler;3.7% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;54% Rüstschutz bei Block;7 Behinderung;1.000 kg, Lederrüstungen, Stufe 24;28600 Gold
+item2010;Verstärkte Drachenleder-Tartsche;10.7% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;54% Rüstschutz bei Block;22 Behinderung;1.600 kg, Lederrüstungen, Stufe 24;28600 Golditem2011;Einfacher Kupfer-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;42% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 2;1000 Gold
+item2021;Einfacher Kupfer-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;32% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 2;1000 Gold
+item2031;Einfacher Kupfer-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;42% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 2;1000 Gold
+item2041;Einfacher Kupfer-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;42% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 2;1000 Gold
+item2051;Einfache Kupfer-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;42% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 2;1000 Gold
+item2012;Verstärkter Kupfer-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;45% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 5;1500 Gold
+item2022;Verstärkter Kupfer-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;35% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 5;1500 Gold
+item2032;Verstärkter Kupfer-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;45% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 5;1500 Gold
+item2042;Verstärkter Kupfer-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;45% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 5;1500 Gold
+item2052;Verstärkte Kupfer-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;45% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 5;1500 Gold
+item2013;Einfacher Eisen-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;47% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 7;2000 Gold
+item2023;Einfacher Eisen-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;37% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 7;2000 Gold
+item2033;Einfacher Eisen-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;47% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 7;2000 Gold
+item2043;Einfacher Eisen-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;47% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 7;2000 Gold
+item2053;Einfache Eisen-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;47% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 7;2000 Gold
+item2014;Verstärkter Eisen-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;50% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 10;3100 Gold
+item2024;Verstärkter Eisen-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;40% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 10;3100 Gold
+item2034;Verstärkter Eisen-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;50% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 10;3100 Gold
+item2044;Verstärkter Eisen-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;50% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 10;3100 Gold
+item2054;Verstärkte Eisen-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;50% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 10;3100 Gold
+item2015;Einfacher Sorandil-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;52% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 12;4000 Gold
+item2025;Einfacher Sorandil-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;42% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 12;4000 Gold
+item2035;Einfacher Sorandil-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;52% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 12;4000 Gold
+item2045;Einfacher Sorandil-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;52% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 12;4000 Gold
+item2055;Einfache Sorandil-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;52% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 12;4000 Gold
+item2016;Verstärkter Sorandil-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;55% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 15;6200 Gold
+item2026;Verstärkter Sorandil-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;45% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 15;6200 Gold
+item2036;Verstärkter Sorandil-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;55% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 15;6200 Gold
+item2046;Verstärkter Sorandil-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;55% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 15;6200 Gold
+item2056;Verstärkte Sorandil-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;55% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 15;6200 Gold
+item2017;Einfacher Adamant-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;57% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 17;8100 Gold
+item2027;Einfacher Adamant-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;47% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 17;8100 Gold
+item2037;Einfacher Adamant-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;57% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 17;8100 Gold
+item2047;Einfacher Adamant-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;57% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 17;8100 Gold
+item2057;Einfache Adamant-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;57% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 17;8100 Gold
+item2018;Verstärkter Adamant-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;60% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 20;12400 Gold
+item2028;Verstärkter Adamant-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;50% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 20;12400 Gold
+item2038;Verstärkter Adamant-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;60% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 20;12400 Gold
+item2048;Verstärkter Adamant-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;60% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 20;12400 Gold
+item2058;Verstärkte Adamant-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;60% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 20;12400 Gold
+item2019;Einfacher Mithril-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;62% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 22;18800 Gold
+item2029;Einfacher Mithril-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;52% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 22;18800 Gold
+item2039;Einfacher Mithril-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;62% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 22;18800 Gold
+item2049;Einfacher Mithril-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;62% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 22;18800 Gold
+item2059;Einfache Mithril-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;62% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 22;18800 Gold
+item2020;Verstärkter Mithril-Rundschild;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt mittlere Menge Erfahrung bis zur Perfektion ;65% Rüstschutz bei Block;40 Behinderung;2.200 kg, Metallrüstungen, Stufe 25;28600 Gold
+item2030;Verstärkter Mithril-Turmschild;5.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt sehr wenig Erfahrung bis zur Perfektion ;55% Rüstschutz bei Block;80 Behinderung;4.200 kg, Metallrüstungen, Stufe 25;28600 Gold
+item2040;Verstärkter Mithril-Drachenschild;14.0% Rüstschutz;Schildblock:  anfangs hoch - benötigt wenig Erfahrung bis zur Perfektion ;65% Rüstschutz bei Block;50 Behinderung;3.200 kg, Metallrüstungen, Stufe 25;28600 Gold
+item2050;Verstärkter Mithril-Buckler;5.0% Rüstschutz;Schildblock:  anfangs sehr gering - benötigt sehr viel Erfahrung bis zur Perfektion ;65% Rüstschutz bei Block;10 Behinderung;1.000 kg, Metallrüstungen, Stufe 25;28600 Gold
+item2060;Verstärkte Mithril-Tartsche;14.0% Rüstschutz;Schildblock:  anfangs mittelmäßig - benötigt viel Erfahrung bis zur Perfektion ;65% Rüstschutz bei Block;30 Behinderung;1.600 kg, Metallrüstungen, Stufe 25;28600 Gold
