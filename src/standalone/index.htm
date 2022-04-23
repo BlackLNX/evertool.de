@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="de">
+ <head>
+  <meta charset="UTF-8">
+  <title>EverTool</title>
+  <link rel="stylesheet" href="main.css">
+  <script src="data.js"></script>
+  <script src="classes.js" defer></script>
+ </head>
+ <body>
+  <nav>
+  </nav>
+  <main>
+   <div id="page_stats">
+    <table id="cont_level">
+     <tr>
+      <th colspan="2">Starteinstellungen
+     <tr>
+      <td class="b">Welt
+      <td>
+       <select id="inp_world">
+        <option value="1">(Ankrador)</option>
+        <option value="2">(Bandrakon)</option>
+        <option value="3">Dunladan</option>
+        <option value="4">Endurias</option>
+        <option value="5">Zyrtania</option>
+        <option value="6">(Ikandur)</option>
+        <option value="7" selected>Keloras</option>
+       </select>
+     <tr>
+      <td class="b">Volk
+      <td>
+       <select id="inp_race">
+        <option value="0" selected>Neutral</option>
+        <option value="1">Mensch</option>
+        <option value="2">Elf</option>
+        <option value="3">Halbelf</option>
+        <option value="4">Zwerg</option>
+        <option value="5">Gnom</option>
+       </select>
+     <tr id="sec_class">
+      <td class="b">Klasse
+      <td>
+       <select id="inp_class">
+        <optgroup label="Kampf">
+         <option value="1" selected>Barbar*In</option>
+         <option value="2">Söldner*In</option>
+         <option value="3">Ritter*In</option>
+         <option value="4">Gardist*In</option>
+         <option value="5">Bestienjäger*in</option>
+        </optgroup>
+        <optgroup label="Magie">
+         <option value="6">Magier*In</option>
+         <option value="7">Kleriker*In</option>
+         <option value="8">Hexe</option>
+         <option value="9">Alchemist*In</option>
+         <option value="10">Antiquar*In</option>
+        </optgroup>
+        <optgroup label="List">
+         <option value="11">Waldläufer*In</option>
+         <option value="12">Druid*In</option>
+         <option value="13">Dieb*In</option>
+         <option value="14">Streuner*In</option>
+         <option value="15">Assasin*In</option>
+        </optgroup>
+       </select>
+     <tr>
+      <td class="b">Level
+      <td><input type="number" id="inp_level" value="1">
+     <tr>
+      <th colspan="2"><input type="button" id="btn_reset" value="Zurücksetzen" onclick="reset()">
+    </table>
+    <table id="cont_stats">
+     <tr>
+      <th colspan="4">Attribute [<a href="https://wiki.evergore.de/wiki/Attribute_(Kel)">?</a>]
+     <tr>
+      <td>Stärke
+      <td><output name="out_strength" class="b">0</value>
+      <td><input type="button" id="btn_strength_add" value="+" onclick="addStrength()">
+      <td><input type="button" id="btn_strength_sub" value="-" onclick="subStrength()">
+     <tr>
+      <td>Geschicklichkeit
+      <td><output name="out_dexterity" class="b">0</output>
+      <td><input type="button" id="btn_dexterity_add" value="+" onclick="addDexterity()">
+      <td><input type="button" id="btn_dexterity_sub" value="-" onclick="subDexterity()">
+     <tr>
+      <td>Konstitution
+      <td><output name="out_constitution" class="b">0</value>
+      <td><input type="button" id="btn_constitution_add" value="+" onclick="addConstitution()">
+      <td><input type="button" id="btn_constitution_sub" value="-" onclick="subConstitution()">
+     <tr>
+      <td>Intelligenz
+      <td><output name="out_intelligence" class="b">0</value>
+      <td><input type="button" id="btn_intelligence_add" value="+" onclick="addIntelligence()">
+      <td><input type="button" id="btn_intelligence_sub" value="-" onclick="subIntelligence()">
+     <tr>
+      <td colspan="2">Freie Attributspunkte
+      <td colspan="2"><output name="out_unset" class="b">0</output>
+     <tr>
+      <td colspan="2">Anzahl Umverteilungen
+      <td colspan="2">&infin;
+     <tr>
+      <th colspan="4">Eigenschaften
+     <tr>
+      <td colspan="2">Maximale Traglast
+      <td colspan="2"><output name="out_weight_max" class="b">0.000</output> kg
+     <tr>
+      <td colspan="2">Aktuelle Traglast
+      <td colspan="2"><output name="out_weight_sum" class="b">0.000</output> kg
+    </table>
+    <div class="flex-x">
+     <table id="cont_melee" class="disable_hrules">
+      <tbody>
+       <tr>
+        <th colspan="2">Werte im Nahkampf
+      </tbody>
+      <tbody id="sec_melee_general">
+       <tr>
+        <td class="b">Allgemeine Werte
+        <td>
+       <tr>
+        <td>Rüstschutz
+        <td><output name="out_melee_defence">0.0</output> %
+       <tr>
+        <td>Absorb
+        <td><output name="out_melee_absorb">0.0</output>
+       <tr>
+        <td>Ausweichen
+        <td><output name="out_melee_evade">0.0</output> %
+       <tr>
+        <td>Schildblock
+        <td><output name="out_melee_block">0.00</output> % (<output name="out_melee_block_effect">0</output> % Schaden)
+       <tr>
+        <td class="red">Behinderung
+        <td class="red"><output name="out_melee_handicap">0</output> %
+       <tr>
+        <td>Waffenwechsel
+        <td><output name="out_melee_switch">0</output> Sekunden
+      </tbody>
+      <tbody id="sec_melee_weapon1">
+       <tr>
+         <td>
+         <td>
+       <tr>
+        <td class="b"><output name="out_melee_name1">Waffenlos</output>
+        <td>
+       <tr>
+        <td>Schaden
+        <td><output name="out_melee_mindamage1">0</output> - <output name="out_melee_maxdamage1">0</output>
+       <tr>
+        <td>Geschwindigkeit
+        <td><output name="out_melee_speed1">schnell</output> (<output name="out_melee_speedtime1">6</output> Sekunden)
+       <tr>
+        <td>Treffsicherheit
+        <td><output name="out_melee_chance_to_hit1">0.00</output> %
+       <tr>
+        <td>Kritischer Treffer
+        <td><output name="out_melee_critical1">0.00</output> %
+       <tr>
+        <td class="red">Behinderung
+        <td class="red"><output name="out_melee_handicap1">0</output> %
+      </tbody>
+      <tbody id="sec_melee_weapon2" class="hidden">
+       <tr>
+         <td>
+         <td>
+       <tr>
+        <td class="b"><output name="out_melee_name2">Waffenlos</output>
+        <td>
+       <tr>
+        <td>Schaden
+        <td><output name="out_melee_mindamage2">0</output> - <output name="out_melee_maxdamage2">0</output>
+       <tr>
+        <td>Geschwindigkeit
+        <td><output name="out_melee_speed2">schnell</output> (<output name="out_melee_speedtime2">6</output> Sekunden)
+       <tr>
+        <td>Treffsicherheit
+        <td><output name="out_melee_chance_to_hit2">0.00</output> %
+       <tr>
+        <td>Kritischer Treffer
+        <td><output name="out_melee_critical2">0.00</output> %
+       <tr>
+        <td class="red">Behinderung
+        <td class="red"><output name="out_melee_handicap2">0</output> %
+      </tbody>
+     </table>
+     <table id="cont_ranged" class="disable_hrules">
+      <tbody>
+       <tr>
+        <th colspan="2">Werte im Fernkampf
+      </tbody>
+      <tbody id="sec_ranged_general">
+       <tr>
+        <td class="b">Allgemeine Werte
+        <td>
+       <tr>
+        <td>Rüstschutz
+        <td><output name="out_ranged_defence">0.0</output> %
+       <tr>
+        <td>Absorb
+        <td><output name="out_ranged_absorb">0.0</output>
+       <tr>
+        <td>Ausweichen
+        <td><output name="out_ranged_evade">0.00</output> %
+       <tr>
+        <td>Behinderung
+        <td><output name="out_ranged_handicap">0</output> %
+       <tr>
+        <td>Waffenwechsel
+        <td><output name="out_ranged_switch">0</output> Sekunden
+      </tbody>
+     </table>
+    </div>
+   </div>
+  </main>
+ </body>
+</html>

@@ -1,3 +1,9 @@
+const ANKRADOR = 1, BANDRAKON = 2, DUNLADAN = 3, ENDURIAS = 4, ZYRTANIA = 5, IKANDUR = 6, KELORAS = 7;
+const MENSCH = 1, ELF = 2, HALBELF = 3, ZWERG = 4, GNOM = 5;
+const BARBAR = 1, SOELDNER = 2, RITTER = 3, GARDIST = 4, BESTIENJAEGER = 5,
+      MAGIER = 6, KLERIKER = 7, HEXE = 8, ALCHEMIST = 9, ANTIQUAR = 10,
+      WALDLAEUFER = 11, DRUIDE = 12, DIEB = 13, STREUNER = 14, ASSASINE = 15;
+
 class egCharacter {
     constructor(welt = 7, volk = 0, klasse = 0) {
         this.welt = welt;
@@ -24,7 +30,7 @@ class egCharacter {
     }
     
     erfahrungLevel(l) {
-        if (this.welt == 6) return 50 * (l +1) * (l +2) -100; //Zyr
+        if (this.welt == KELORAS) return 50 * (l +1) * (l +2) -100; //Zyr
         return 500 * ((l -1) **2 + l -1);
     }
     
@@ -60,10 +66,10 @@ class egCharacter {
     get ruestungsschutzFK()    {return 0;} //Inventar-Summe *
     get absorb()               {return 0;} //Inventar-Summe *
     
-    get ausweichen()           {if (this.welt == 7) return 2 * Math.log10(this.geschicklichkeit ** 4) + Math.sqrt(this.geschicklichkeit) - 1.2; //Annäherung *
+    get ausweichen()           {if (this.welt == KELORAS) return 2 * Math.log10(this.geschicklichkeit ** 4) + Math.sqrt(this.geschicklichkeit) - 1.2; //Annäherung *
                                 return 4 + 0,2 * this.geschicklichkeit;}
-        ausweichenNK()         {return this.ausweichen;} //Behinderung einrechnen *
-        ausweichenFK()         {return this.ausweichen;} //Behinderung einrechnen *
+    get ausweichenNK()         {return this.ausweichen;} //Behinderung einrechnen *
+    get ausweichenFK()         {return this.ausweichen;} //Behinderung einrechnen *
         
     get parieren()             {return 0;} //Unbekannt *
     get blocken()              {return 0;} //Unbekannt *

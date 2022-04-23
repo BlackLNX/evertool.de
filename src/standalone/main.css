@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+html {}
+body {
+    background-color: #D0CEA5;
+    background-image: linear-gradient(to bottom right, rgba(255,255,255,0.2), rgba(0,0,0,0.15));
+    background-repeat: repeat;
+    background-size: 3px 3px;
+    height: 100%;
+}
+
+table {
+    border: 1px solid rgba(0,0,0,0.7);
+    border-collapse: collapse;
+    margin: 0.5em;
+}
+
+th {
+    background-color: rgba(0,0,0,0.2);
+}
+
+tr:not(:last-child) th, table:not(.disable_hrules) tr:not(:last-child) td, tbody:not(:last-child) {
+    border-bottom: 1px solid rgba(0,0,0,0.7);
+}
+
+th:not(:last-child), td:not(:last-child) {
+    border-right: 1px solid rgba(0,0,0,0.7);
+}
+
+select, input:not([type=button]) {
+    width: 100%;
+}
+
+input[type=button] {
+    
+}
+
+.flex-x {
+    display: flex;
+    align-items: flex-start;
+}
+
+.b {
+    font-weight: bold;
+}
