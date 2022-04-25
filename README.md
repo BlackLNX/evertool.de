@@ -1,2 +1,2 @@
 # evertool.de
-Trainer, Char-builder, Enzyklopedie und Simulation für evergore.de
+Trainer, Char-builder, Enzyklopedie, Kampfauswerter und Simulation für evergore.de
