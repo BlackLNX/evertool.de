@@ -73,6 +73,7 @@ class egCharacter {
         
     get parieren()             {return 0;} //Unbekannt *
     get blocken()              {return 0;} //Unbekannt *
+    get blockschutz()          {return 0;} //Unbekannt *
     
     get behinderung()          {return 0;} //Inventar-Summe *
     get behinderungNK()        {return this.behinderung;} //Unbekannt *
@@ -94,7 +95,7 @@ class egCharacter {
     get treffsicherheitNK()    {return 0;} //Inventar *
     get treffsicherheitFK()    {return 0;} //Inventar *
     
-    get kritischeTrefferNK()   {return 0;} //Unbekannt *
+    get kritischeTrefferNK()   {return 0; } //Unbekannt *
     get kritischeTrefferFK()   {return 0;} //Unbekannt *
     
     get heilungAbsolutMin()    {return 0;} //Inventar *

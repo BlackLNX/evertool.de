@@ -5,16 +5,79 @@
   <title>EverTool</title>
   <link rel="stylesheet" href="main.css">
   <script src="data.js"></script>
-  <script src="classes.js" defer></script>
+  <script src="classes.js"></script>
+  <script defer>
+   var char = new egCharacter();
+   setInterval(function() {
+     char.welt = inp_world.value;
+     char.volk = inp_race.value;
+     char.klasse = inp_class.value;
+     char.level = inp_level.value;
+     var output = document.getElementsByTagName("output");
+     for (i=0; i<output.length; i++) {
+       switch (output[i].name) {
+         case "out_strength":        output[i].innerHTML = char.staerke; break;
+         case "out_dexterity":       output[i].innerHTML = char.geschicklichkeit; break;
+         case "out_constitution":    output[i].innerHTML = char.konstitution; break;
+         case "out_intelligence":    output[i].innerHTML = char.intelligenz; break;
+         case "out_unset":           output[i].innerHTML = char.freieAttributspunkte; break;
+         case "out_weight_max":      output[i].innerHTML = number(char.traglastMax, 3); break;
+         case "out_weight_sum":      output[i].innerHTML = number(char.traglast, 3); break;
+         
+         case "out_melee_defence":   output[i].innerHTML = number(char.ruestungsschutzNK, 1); break;
+         case "out_melee_absorb":    output[i].innerHTML = number(char.absorb, 1); break;
+         case "out_melee_evade":     output[i].innerHTML = number(char.ausweichenNK, 1); break;
+         case "out_melee_block":     output[i].innerHTML = number(char.blocken, 2); break;
+         case "out_melee_black_effect": output[i].innerHTML = char.blockschutz; break;
+         case "out_melee_handicap":  output[i].innerHTML = char.behinderungNK; break;
+         case "out_melee_switch":    output[i].innerHTML = char.waffenwechselNK; break;
+         
+       }
+     }
+   }, 250);
+   function number(v, d) {
+     var s = Math.floor(v);
+     if (d > 0) {
+       s+= ".";
+       s+= (((v * 10**d) % (10**d)).toString() + "0".repeat(d)).substr(0, d);
+     }
+     return s;
+   }
+   //Events:
+   function reset() {}
+   function addStrength()      {if (char.freieAttributspunkte > 0) char.staerke+=1;}
+   function subStrength()      {if (char.staerke > 0)              char.staerke-=1;}
+   function addDexterity()     {if (char.freieAttributspunkte > 0) char.geschicklichkeit+=1;}
+   function subDexterity()     {if (char.geschicklichkeit > 0)     char.geschicklichkeit-=1;}
+   function addConstitution()  {if (char.freieAttributspunkte > 0) char.konstitution+=1;}
+   function subConstitution()  {if (char.konstitution > 0)         char.konstitution-=1;}
+   function addIntelligence()  {if (char.freieAttributspunkte > 0) char.intelligenz+=1;}
+   function subIntelligence()  {if (char.intelligenz > 0)          char.intelligenz-=1;}
+  </script>
  </head>
  <body>
   <nav>
+   <table class="nav">
+    <tr>
+     <td title="Eigenschaften" class="active">
+     <td title="Inventar">
+     <td title="Fähigkeiten">
+     <td title="Kampf">
+     <td title="Quests">
+     <td title="Discord">
+     <td title="Kampfverhalten">
+   </table>
   </nav>
   <main>
-   <div id="page_stats">
-    <table id="cont_level">
+   <div>
+    <table id="cont_start" class="f">
      <tr>
       <th colspan="2">Starteinstellungen
+     <tr>
+      <td class="b">Speicherplatz
+      <td><select id="inp_slot">
+      <option value="0" selected>(Neuer Speicherstand)</option>
+      </select>
      <tr>
       <td class="b">Welt
       <td>
@@ -68,48 +131,54 @@
       <td class="b">Level
       <td><input type="number" id="inp_level" value="1">
      <tr>
-      <th colspan="2"><input type="button" id="btn_reset" value="Zurücksetzen" onclick="reset()">
+      <th colspan="2">
+      <input type="button" id="btn_reset" value="Zurücksetzen" onclick="reset()">
+      <input type="button" id="btn_save" value="Speichern" onclick="save()" disabled>
+      <input type="button" id="btn_load" value="Laden" onclick="load()" disabled>
+      <input type="button" id="btn_delete" value="Löschen" onclick="delete()" disabled>
     </table>
+   </div>
+   <div id="page_stats">
     <table id="cont_stats">
      <tr>
       <th colspan="4">Attribute [<a href="https://wiki.evergore.de/wiki/Attribute_(Kel)">?</a>]
      <tr>
       <td>Stärke
-      <td><output name="out_strength" class="b">0</value>
-      <td><input type="button" id="btn_strength_add" value="+" onclick="addStrength()">
-      <td><input type="button" id="btn_strength_sub" value="-" onclick="subStrength()">
+      <td class="c"><output name="out_strength" class="b">0</value>
+      <td class="c"><input type="button" id="btn_strength_add" value="+" onclick="addStrength()">
+      <td class="c"><input type="button" id="btn_strength_sub" value="-" onclick="subStrength()">
      <tr>
       <td>Geschicklichkeit
-      <td><output name="out_dexterity" class="b">0</output>
-      <td><input type="button" id="btn_dexterity_add" value="+" onclick="addDexterity()">
-      <td><input type="button" id="btn_dexterity_sub" value="-" onclick="subDexterity()">
+      <td class="c"><output name="out_dexterity" class="b">0</output>
+      <td class="c"><input type="button" id="btn_dexterity_add" value="+" onclick="addDexterity()">
+      <td class="c"><input type="button" id="btn_dexterity_sub" value="-" onclick="subDexterity()">
      <tr>
       <td>Konstitution
-      <td><output name="out_constitution" class="b">0</value>
-      <td><input type="button" id="btn_constitution_add" value="+" onclick="addConstitution()">
-      <td><input type="button" id="btn_constitution_sub" value="-" onclick="subConstitution()">
+      <td class="c"><output name="out_constitution" class="b">0</value>
+      <td class="c"><input type="button" id="btn_constitution_add" value="+" onclick="addConstitution()">
+      <td class="c"><input type="button" id="btn_constitution_sub" value="-" onclick="subConstitution()">
      <tr>
       <td>Intelligenz
-      <td><output name="out_intelligence" class="b">0</value>
-      <td><input type="button" id="btn_intelligence_add" value="+" onclick="addIntelligence()">
-      <td><input type="button" id="btn_intelligence_sub" value="-" onclick="subIntelligence()">
+      <td class="c"><output name="out_intelligence" class="b">0</value>
+      <td class="c"><input type="button" id="btn_intelligence_add" value="+" onclick="addIntelligence()">
+      <td class="c"><input type="button" id="btn_intelligence_sub" value="-" onclick="subIntelligence()">
      <tr>
-      <td colspan="2">Freie Attributspunkte
-      <td colspan="2"><output name="out_unset" class="b">0</output>
+      <td colspan="2" class="i">Freie Attributspunkte
+      <td colspan="2" class="c"><output name="out_unset" class="b">0</output>
      <tr>
-      <td colspan="2">Anzahl Umverteilungen
-      <td colspan="2">&infin;
+      <td colspan="2" class="i">Anzahl Umverteilungen
+      <td colspan="2" class="c">&infin;
      <tr>
       <th colspan="4">Eigenschaften
      <tr>
       <td colspan="2">Maximale Traglast
-      <td colspan="2"><output name="out_weight_max" class="b">0.000</output> kg
+      <td colspan="2" class="r"><output name="out_weight_max" class="b">0.000</output> kg
      <tr>
       <td colspan="2">Aktuelle Traglast
-      <td colspan="2"><output name="out_weight_sum" class="b">0.000</output> kg
+      <td colspan="2" class="r"><output name="out_weight_sum" class="b">0.000</output> kg
     </table>
     <div class="flex-x">
-     <table id="cont_melee" class="disable_hrules">
+     <table id="cont_melee" class="disable_hrules f">
       <tbody>
        <tr>
         <th colspan="2">Werte im Nahkampf
@@ -125,7 +194,7 @@
         <td>Absorb
         <td><output name="out_melee_absorb">0.0</output>
        <tr>
-        <td>Ausweichen
+        <td>Ausweichen*
         <td><output name="out_melee_evade">0.0</output> %
        <tr>
         <td>Schildblock
@@ -184,7 +253,7 @@
         <td class="red"><output name="out_melee_handicap2">0</output> %
       </tbody>
      </table>
-     <table id="cont_ranged" class="disable_hrules">
+     <table id="cont_ranged" class="disable_hrules f">
       <tbody>
        <tr>
         <th colspan="2">Werte im Fernkampf

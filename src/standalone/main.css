@@ -2,10 +2,15 @@
     box-sizing: border-box;
 }
 
-html {}
+html {
+    font-family: sans-serif;
+    font-size: 11pt;
+    line-height: 120%;
+}
+
 body {
-    background-color: #D0CEA5;
-    background-image: linear-gradient(to bottom right, rgba(255,255,255,0.2), rgba(0,0,0,0.15));
+    background-color: rgb(208,206,165);
+    background-image: linear-gradient(to bottom right, rgba(255,255,255,0.2), rgba(0,0,0,0.1));
     background-repeat: repeat;
     background-size: 3px 3px;
     height: 100%;
@@ -21,6 +26,10 @@ th {
     background-color: rgba(0,0,0,0.2);
 }
 
+td {
+    min-width: 3em;
+}
+
 tr:not(:last-child) th, table:not(.disable_hrules) tr:not(:last-child) td, tbody:not(:last-child) {
     border-bottom: 1px solid rgba(0,0,0,0.7);
 }
@@ -34,7 +43,23 @@ select, input:not([type=button]) {
 }
 
 input[type=button] {
-    
+    min-width: 2em;
+    border: 1px solid rgba(0,0,0,0.7);
+    background: rgb(187,185,149);
+    color: #a00;
+    line-height: 2em;
+    margin: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+input[type=button]:hover {
+    background: rgb(224,222,179);
+}
+
+input[type=button][disabled] {
+    background: rgb(157,156,138);
+    cursor: default;
 }
 
 .flex-x {
@@ -44,4 +69,40 @@ input[type=button] {
 
 .b {
     font-weight: bold;
+}
+
+.c {
+    text-align: center;
+}
+
+.i {
+    font-style: italic;
+}
+
+.r {
+    text-align: right;
+}
+
+table.f td {
+    width: 180px;
+}
+
+
+
+table.nav {
+    table-layout: fixed;
+    background-image: url(icons.png);
+    background-size: 100%;
+    width: 224px;
+    height: 32px;
+}
+
+table.nav td {
+    background: rgba(0,0,0,0);
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+table.nav td:hover, table.nav td.active {
+    background: rgba(255,255,255,0.25);
 }
