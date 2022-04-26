@@ -10,10 +10,10 @@ class egCharacter {
         this.volk = volk;
         this.klasse = klasse;
         this.level = 1;
-        this.staerke = 5;
-        this.geschicklichkeit = 5;
-        this.konstitution = 5;
-        this.intelligenz = 5;
+        this.staerke = 0;
+        this.geschicklichkeit = 0;
+        this.konstitution = 0;
+        this.intelligenz = 0;
         this.inventar = {};
         this.ausruestung = {'Kopf': false,
                             'Torso': false,
@@ -49,6 +49,20 @@ class egCharacter {
     itemAusziehen(i) {
         this.ausrüstung['Kopf'] = false;
         this.itemGeben(i);
+    }
+    
+    get minEigenschaften() {
+        var r = [0, 0, 0, 0];
+        for (var i=this.welt; i>0; i--) {
+            if (typeof data[i].eigenschaften != 'undefined') {
+                for (var j=0; j<4; j++) {
+                    r[j] = (data[i].eigenschaften[j].volk[this.volk] ?? 0);
+                    if (typeof data[i].eigenschaften[j].klasse != 'undefined') r[j]+= (data[i].eigenschaften[j].klasse[this.klasse] ?? 0);
+                }
+                break;
+            }
+        }
+        return r;
     }
     
     get lernfaktoren()         {return [];} //Unbekannt *

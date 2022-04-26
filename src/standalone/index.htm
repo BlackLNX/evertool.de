@@ -6,54 +6,7 @@
   <link rel="stylesheet" href="main.css">
   <script src="data.js"></script>
   <script src="classes.js"></script>
-  <script defer>
-   var char = new egCharacter();
-   setInterval(function() {
-     char.welt = inp_world.value;
-     char.volk = inp_race.value;
-     char.klasse = inp_class.value;
-     char.level = inp_level.value;
-     var output = document.getElementsByTagName("output");
-     for (i=0; i<output.length; i++) {
-       switch (output[i].name) {
-         case "out_strength":        output[i].innerHTML = char.staerke; break;
-         case "out_dexterity":       output[i].innerHTML = char.geschicklichkeit; break;
-         case "out_constitution":    output[i].innerHTML = char.konstitution; break;
-         case "out_intelligence":    output[i].innerHTML = char.intelligenz; break;
-         case "out_unset":           output[i].innerHTML = char.freieAttributspunkte; break;
-         case "out_weight_max":      output[i].innerHTML = number(char.traglastMax, 3); break;
-         case "out_weight_sum":      output[i].innerHTML = number(char.traglast, 3); break;
-         
-         case "out_melee_defence":   output[i].innerHTML = number(char.ruestungsschutzNK, 1); break;
-         case "out_melee_absorb":    output[i].innerHTML = number(char.absorb, 1); break;
-         case "out_melee_evade":     output[i].innerHTML = number(char.ausweichenNK, 1); break;
-         case "out_melee_block":     output[i].innerHTML = number(char.blocken, 2); break;
-         case "out_melee_black_effect": output[i].innerHTML = char.blockschutz; break;
-         case "out_melee_handicap":  output[i].innerHTML = char.behinderungNK; break;
-         case "out_melee_switch":    output[i].innerHTML = char.waffenwechselNK; break;
-         
-       }
-     }
-   }, 250);
-   function number(v, d) {
-     var s = Math.floor(v);
-     if (d > 0) {
-       s+= ".";
-       s+= (((v * 10**d) % (10**d)).toString() + "0".repeat(d)).substr(0, d);
-     }
-     return s;
-   }
-   //Events:
-   function reset() {}
-   function addStrength()      {if (char.freieAttributspunkte > 0) char.staerke+=1;}
-   function subStrength()      {if (char.staerke > 0)              char.staerke-=1;}
-   function addDexterity()     {if (char.freieAttributspunkte > 0) char.geschicklichkeit+=1;}
-   function subDexterity()     {if (char.geschicklichkeit > 0)     char.geschicklichkeit-=1;}
-   function addConstitution()  {if (char.freieAttributspunkte > 0) char.konstitution+=1;}
-   function subConstitution()  {if (char.konstitution > 0)         char.konstitution-=1;}
-   function addIntelligence()  {if (char.freieAttributspunkte > 0) char.intelligenz+=1;}
-   function subIntelligence()  {if (char.intelligenz > 0)          char.intelligenz-=1;}
-  </script>
+  <script src="main.js" defer></script>
  </head>
  <body>
   <nav>
@@ -75,19 +28,19 @@
       <th colspan="2">Starteinstellungen
      <tr>
       <td class="b">Speicherplatz
-      <td><select id="inp_slot">
+      <td><select id="inp_slot" disabled>
       <option value="0" selected>(Neuer Speicherstand)</option>
       </select>
      <tr>
       <td class="b">Welt
       <td>
        <select id="inp_world">
-        <option value="1">(Ankrador)</option>
-        <option value="2">(Bandrakon)</option>
+        <option value="1" disabled>Ankrador</option>
+        <option value="2" disabled>Bandrakon</option>
         <option value="3">Dunladan</option>
         <option value="4">Endurias</option>
         <option value="5">Zyrtania</option>
-        <option value="6">(Ikandur)</option>
+        <option value="6" disabled>Ikandur</option>
         <option value="7" selected>Keloras</option>
        </select>
      <tr>
@@ -201,7 +154,7 @@
         <td><output name="out_melee_block">0.00</output> % (<output name="out_melee_block_effect">0</output> % Schaden)
        <tr>
         <td class="red">Behinderung
-        <td class="red"><output name="out_melee_handicap">0</output> %
+        <td class="red"><output name="out_melee_handicap">keine</output>
        <tr>
         <td>Waffenwechsel
         <td><output name="out_melee_switch">0</output> Sekunden

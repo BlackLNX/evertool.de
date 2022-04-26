@@ -62,6 +62,10 @@ input[type=button][disabled] {
     cursor: default;
 }
 
+.hidden {
+    display: none;
+}
+
 .flex-x {
     display: flex;
     align-items: flex-start;
